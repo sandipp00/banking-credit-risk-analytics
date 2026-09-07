@@ -1,0 +1,45 @@
+Portfolio KPIs
+total_loans: 18,000.00
+total_disbursed: 20,586,130,891.28
+outstanding: 8,287,100,218.32
+default_rate_pct: 3.00
+avg_interest_rate_pct: 10.36
+
+Loan product analysis
+           loans     disbursed   outstanding  default_rate_pct  avg_rate
+loan_type                                                               
+Personal    5417  1.495106e+09  6.087550e+08              4.26     12.52
+Business    2251  4.572949e+09  1.894818e+09              3.02     11.02
+Gold        2282  7.536465e+08  3.084501e+08              2.54     10.51
+Home        3981  1.092307e+10  4.357224e+09              2.41      8.49
+Education   1423  7.877993e+08  3.167795e+08              2.25      7.67
+Auto        2646  2.053562e+09  8.010735e+08              2.08      9.48
+
+Recent payment behavior
+              payments  avg_days_overdue  severe_late_rate
+payment_date                                              
+2028-03            441              7.42              4.76
+2028-04            403              7.17              4.71
+2028-05            340              5.40              3.53
+2028-06            298              6.55              4.03
+2028-07            271              7.90              5.17
+2028-08            256              4.75              2.34
+2028-09            190              7.93              5.26
+2028-10            177              7.25              5.08
+2028-11            116              5.13              3.45
+2028-12             94              9.82              6.38
+2029-01             69              2.09              1.45
+2029-02             18              8.39              5.56
+
+Top 10 exposure customers
+ customer_id  loans    exposure  defaults  credit_score risk_segment  annual_income  exposure_to_income
+      105589      5 10760650.79         0           735       Medium      534435.21               20.13
+      100866      3  9601067.38         0           707       Medium      686014.82               14.00
+      101074      3  9515504.54         0           669         High      539540.97               17.64
+      100448      2  8715413.13         0           639         High      580299.37               15.02
+      107754      3  8664885.38         0           717       Medium     1619043.13                5.35
+      108469      1  8414943.29         0           700       Medium      851921.34                9.88
+      101370      5  8214827.51         0           596    Very High     1162843.93                7.06
+      104958      1  8150847.37         0           647         High     1078532.98                7.56
+      107232      3  7972115.75         0           674         High     1076236.22                7.41
+      108709      3  7574430.31         0           730       Medium     1371269.23                5.52

@@ -1,0 +1,7 @@
+table,purpose,row_count
+customers,Customer master and credit profile,"10,025 rows incl. intentional duplicates"
+branches,Bank branch reference data,40 rows
+accounts,Customer deposit/account information,"14,000 rows"
+loans,Loan portfolio and credit-risk outcomes,"18,000 rows"
+payments,Loan repayment behavior,"90,000 rows"
+transactions,Banking transaction activity,"100,000 rows"

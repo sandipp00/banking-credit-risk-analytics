@@ -1,0 +1,41 @@
+branch_id,branch_name,city,state,region,branch_type
+1,BR-001,Mangaluru,Karnataka,East,Metro
+2,BR-002,Warangal,Telangana,North,Semi-Urban
+3,BR-003,Mumbai,Maharashtra,East,Semi-Urban
+4,BR-004,Vadodara,Gujarat,East,Semi-Urban
+5,BR-005,New Delhi,Delhi,North,Semi-Urban
+6,BR-006,Warangal,Telangana,South,Retail
+7,BR-007,Udaipur,Rajasthan,East,Metro
+8,BR-008,Kolkata,West Bengal,East,Metro
+9,BR-009,Hyderabad,Telangana,North,Metro
+10,BR-010,Jaipur,Rajasthan,West,Semi-Urban
+11,BR-011,Coimbatore,Tamil Nadu,North,Semi-Urban
+12,BR-012,Surat,Gujarat,North,Semi-Urban
+13,BR-013,Warangal,Telangana,East,Semi-Urban
+14,BR-014,Kolkata,West Bengal,North,Metro
+15,BR-015,Hyderabad,Telangana,North,Metro
+16,BR-016,Nagpur,Maharashtra,East,Semi-Urban
+17,BR-017,Surat,Gujarat,West,Metro
+18,BR-018,Madurai,Tamil Nadu,South,Retail
+19,BR-019,Warangal,Telangana,North,Metro
+20,BR-020,Nagpur,Maharashtra,South,Retail
+21,BR-021,Pune,Maharashtra,East,Semi-Urban
+22,BR-022,Hyderabad,Telangana,West,Metro
+23,BR-023,Ahmedabad,Gujarat,South,Semi-Urban
+24,BR-024,Kolkata,West Bengal,South,Semi-Urban
+25,BR-025,Kolkata,West Bengal,South,Semi-Urban
+26,BR-026,Chennai,Tamil Nadu,East,Metro
+27,BR-027,Nagpur,Maharashtra,North,Semi-Urban
+28,BR-028,Mangaluru,Karnataka,West,Semi-Urban
+29,BR-029,Surat,Gujarat,East,Retail
+30,BR-030,Kolkata,West Bengal,East,Metro
+31,BR-031,New Delhi,Delhi,East,Retail
+32,BR-032,Mumbai,Maharashtra,North,Metro
+33,BR-033,Surat,Gujarat,South,Semi-Urban
+34,BR-034,New Delhi,Delhi,North,Semi-Urban
+35,BR-035,New Delhi,Delhi,East,Metro
+36,BR-036,New Delhi,Delhi,North,Metro
+37,BR-037,Kolkata,West Bengal,South,Metro
+38,BR-038,Mysuru,Karnataka,South,Semi-Urban
+39,BR-039,Mumbai,Maharashtra,South,Semi-Urban
+40,BR-040,Kolkata,West Bengal,North,Retail
