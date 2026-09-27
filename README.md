@@ -19,7 +19,7 @@ Synthetic, reproducible banking dataset created for portfolio/learning use. It c
 
 | Table | Rows (raw) |
 |---|---:|
-| customers | 10,025 |
+| customers | 10,025 raw / 10,000 cleaned |
 | branches | 40 |
 | accounts | 14,000 |
 | loans | 18,000 |
